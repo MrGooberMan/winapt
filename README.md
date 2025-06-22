@@ -1,2 +1,2 @@
-# wapt
+# winapt
 apt but for Windows
